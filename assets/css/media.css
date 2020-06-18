@@ -1,0 +1,93 @@
+@media only screen and (max-width: 576px) {
+    .banner .banner-content .right {
+        display: none;
+    }
+    .about-content{
+        margin-top: 50px;
+    }
+    .about-content h4{
+        font-size: 17px;
+
+    }
+    .about-content h1{
+        font-size: 20px;
+
+    }
+    .about-content-second h4{
+        font-size: 17px;
+    }
+    .about-content-second h1{
+        font-size: 20px;
+    }
+    .screen{
+        margin-bottom: 50px;
+    }
+    .screen .screen-content{
+        margin-top: 20px;
+    }
+    
+    .screen .screen-content h3{
+        font-size: 20px;
+    }
+    .screen .screen-content h2{
+        font-size: 25px;
+    }
+    .quality h3{
+        font-size: 20px;
+    }
+    .quality h2{
+         font-size: 25px;
+    }
+    .playlist-banner h4{
+        font-size: 15px;
+    }
+    .subscription h3{
+        font-size: 20px;
+        letter-spacing: 0px;
+    }
+    .subscription h2{
+        font-size: 25px;
+    }
+    
+     
+    
+     
+    
+}
+
+@media only screen and (max-width: 992px) {
+    .items ul{
+        display: none;
+    }
+    .navbar-icon{
+        float: right;
+        margin-top: 30px; 
+    }
+    .banner .banner-content .right p{
+        display: none;
+    }
+   
+    .playlist-banner .content h3 {
+        display: none;
+    }
+    .playlist-banner .content p {
+        display: none;
+    }
+    
+}
+
+@media only screen and (max-width: 1200px) {
+    .banner .banner-content .right h1{
+        font-size: 20px;
+        font-weight: 200;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .navbar-icon{
+        display: none;
+    }
+    .playlist-banner  h4{
+        display: none;
+    }
+}

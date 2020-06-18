@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.009" height="41.734" viewBox="0 0 51.009 41.734">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#4b4b4b}
+        </style>
+    </defs>
+    <g id="prefix__cast" transform="translate(0 -42.667)">
+        <g id="prefix__Group_568" data-name="Group 568" transform="translate(0 42.667)">
+            <g id="prefix__Group_567" data-name="Group 567">
+                <path id="prefix__Path_614" d="M0 277.333v4.637a11.6 11.6 0 0 1 11.593 11.593h4.637A16.233 16.233 0 0 0 0 277.333z" class="prefix__cls-1" data-name="Path 614" transform="translate(0 -251.829)"/>
+                <path id="prefix__Path_615" d="M0 362.667v6.956h6.956A6.961 6.961 0 0 0 0 362.667z" class="prefix__cls-1" data-name="Path 615" transform="translate(0 -327.888)"/>
+                <path id="prefix__Path_616" d="M46.372 42.667H4.637A4.636 4.636 0 0 0 0 47.3v6.96h4.637V47.3h41.735v32.46H30.141v4.64h16.23a4.636 4.636 0 0 0 4.637-4.637V47.3a4.636 4.636 0 0 0-4.636-4.633z" class="prefix__cls-1" data-name="Path 616" transform="translate(0 -42.667)"/>
+                <path id="prefix__Path_617" d="M0 192v4.637A20.869 20.869 0 0 1 20.867 217.5H25.5A25.5 25.5 0 0 0 0 192z" class="prefix__cls-1" data-name="Path 617" transform="translate(0 -175.77)"/>
+            </g>
+        </g>
+    </g>
+</svg>
